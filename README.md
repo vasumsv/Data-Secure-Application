@@ -23,7 +23,7 @@
 
 
 
-This is the main page where we can find find two option **Encrypt** and **Decrypt** .
+This is the main page where we can find  two option **Encrypt** and **Decrypt** .
 
 
  ### Encryption Form 
